@@ -8,7 +8,7 @@ In this repo you will find 3 scripts needed to reproduce my analysis from the pa
 
 Capaldi, M.J. (2023). The route to graduation: An exploration of the association between transit stop proximity and Pell completion rates at US commuter colleges. _Journal of College Student Retention: Research, Theory, and Practice_.
 
-Scripts should be kept together in the top-level directory. They are set up to call each other if necessary, but can also be run in order.
+Scripts should be kept together in the top-level directory. They are set up to call each other if necessary (i.e., you can start by running 03-data-analysis.R and it will source scripts 01 and 02), but they can also be run in order.
 
 ## Data required
 

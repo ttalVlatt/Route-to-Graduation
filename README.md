@@ -25,6 +25,6 @@ https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?year=2019
     * Use _rv revised files for all data except HD2019 and IC2019_AY (where there is no revised file)
     * Store those .csv files directly in the data folder (out of the folders the _rv versions come in)
 
-Once this is set up, all the scripts should work, providing you **set working directory** to the top of this folder where the scripts are located. 
+Once this is set up, all the scripts should work, providing you **set working directory** to the top level of this folder where the scripts are located. 
 
 I attempted to annotate what everything does, but if you have any questions feel free to contact me.

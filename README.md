@@ -21,7 +21,7 @@ All data should be placed in the data folder subfolder. You will need to downloa
 
 2) Institutional data is available from IPEDS for the survey year 2019 here:
 https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?year=2019
-    * Download the basic data file (.csv) for; HD2019, IC2019_AY, EFFY2019, EF2019A, S2019_SIS, F1819_F1A, F1819_F2, SFA1819, OM2019
+    * Download the basic data file (.csv) for; HD2019, IC2019_AY, EFFY2019, EF2019A_DIST, S2019_SIS, F1819_F1A, F1819_F2, SFA1819, OM2019
     * Use _rv revised files for all data except HD2019 and IC2019_AY (where there is no revised file)
     * Store those .csv files directly in the data folder (out of the folders the _rv versions come in)
 

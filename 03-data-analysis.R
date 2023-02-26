@@ -227,6 +227,7 @@ plot_model(x, type = "pred", terms = c("transit_stop", "locale")) +
        y = "Pell Completion Rate",
        x = "Transit Stop Within 0.5 Miles",
        color = "Locale") +
+  theme_minimal() +
   theme(text = element_text("Times"),
         title = element_text(face = "bold"))
 
